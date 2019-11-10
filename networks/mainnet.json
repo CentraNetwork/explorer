@@ -1,6 +1,6 @@
 {
   "title": "Centra Explorer",
-  "server": "https://explorer.phantom.org:4200/apii",
+  "server": "https://explorer.phantom.org:4200/api",
   "alias": "Main",
   "activeDelegates": 51,
   "rewardOffset": 75600,
