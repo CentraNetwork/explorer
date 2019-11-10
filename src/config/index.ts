@@ -5,85 +5,85 @@ export const I18N = {
 
 export const brand = {
   footer: {
-    url: "https://ark.io",
-    text: "ARK.io",
+    url: "https://centra.net",
+    text: "Centra Network",
   },
 };
 
 export const socialMedia = [
   {
     name: "facebook",
-    url: "https://facebook.ark.io",
+    url: "https://facebook.com/CentraNetwork",
     viewBox: "0 0 10 16",
   },
   {
     name: "twitter",
-    url: "https://twitter.ark.io",
+    url: "https://twitter.com/CentraNetwork",
     viewBox: "0 0 16 16",
   },
   {
     name: "youtube",
-    url: "https://youtube.ark.io",
+    url: "https://youtube.com/CentraNetwork",
     viewBox: "0 0 18 16",
   },
   {
     name: "email",
-    url: "mailto:info@ark.io",
+    url: "mailto:support@centra,net",
     viewBox: "0 0 16 16",
   },
   {
     name: "telegram",
-    url: "https://telegram.me/ArkEcosystem",
+    url: "https://t.me/Centra",
     viewBox: "0 0 14 16",
   },
   {
     name: "reddit",
-    url: "https://reddit.ark.io",
+    url: "https://reddit.com/r/Centra",
     viewBox: "0 0 16 16",
   },
   {
     name: "github",
-    url: "https://github.ark.io",
+    url: "https://github.com/CentraNetwork",
     viewBox: "0 0 16 16",
   },
   {
     name: "bitcointalk",
-    url: "https://bitcointalk.ark.io",
+    url: "https://bitcointalk.com",
     viewBox: "0 0 16 16",
   },
   {
     name: "slack",
-    url: "https://slack.ark.io",
+    url: "https://slack.centra.net",
     viewBox: "0 0 14 16",
   },
   {
     name: "discord",
-    url: "https://discord.ark.io",
+    url: "https://discord.centra.net",
     viewBox: "0 0 14 16",
   },
   {
     name: "steemit",
-    url: "https://steemit.ark.io",
+    url: "#",
     viewBox: "0 0 16 16",
   },
   {
     name: "instagram",
-    url: "https://instagram.ark.io",
+    url: "#",
     viewBox: "0 0 14 16",
   },
   {
     name: "medium",
-    url: "https://blog.ark.io",
+    url: "https://blog.centra.net",
     viewBox: "0 0 16 16",
   },
   {
     name: "soundcloud",
-    url: "https://soundcloud.com/thearkcryptopodcast",
+    url: "#",
     viewBox: "0 0 20 16",
   },
   {
     name: "minds",
-    url: "https://www.minds.com/arkecosystem",
+    url: "#",
     viewBox: "0 0 14 16",
   },
 ];
